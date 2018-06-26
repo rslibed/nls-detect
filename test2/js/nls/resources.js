@@ -23,8 +23,12 @@ define({
       noslides: "No slides in web scene"
     },
     tooltips: {
-      play: "Play-Pause",
-      toggle: "Toggle"
+      layers: "Layers",
+      basemaps: "Base maps",
+      slides: "Slides",
+      close: "Close",
+      zoom: "Zoom",
+      onoff: "On-Off"
     }
   }),
   "ar": 1,
@@ -33,6 +37,7 @@ define({
   "cs": 1,
   "da": 1,
   "de": 1,
+  "el": 1,
   "es": 1,
   "et": 1,
   "fi": 1,
@@ -57,8 +62,8 @@ define({
   "sl": 1,
   "sr": 1,
   "sv": 1,
-  "tr": 1,
   "th": 1,
+  "tr": 1,
   "vi": 1,
   "zh-cn": 1,
   "zh-hk": 1,
